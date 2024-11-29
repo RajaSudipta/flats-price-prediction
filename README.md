@@ -1,1 +1,1 @@
-# house-price-prediction
+# flats-price-prediction
